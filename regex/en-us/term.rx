@@ -1,2 +1,2 @@
-(.* (?P<Choice1>.*))
-(.* (?P<Choice1>.*)) means
+(.* (?P<term>.*))
+(.* (?P<term>.*)) means
